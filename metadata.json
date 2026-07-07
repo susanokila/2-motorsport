@@ -1,0 +1,6 @@
+{
+  "name": "OKILA Motorsport",
+  "description": "Premium automotive service center, auto spares shop, and professional car wash with integrated AI assistant, smart diagnostics, and interactive online booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
